@@ -1,24 +1,9 @@
 fileFormatVersion: 2
-guid: 1fd937947a2cf1547b0f28eb848d5269
+guid: bf39299f1e0151e46bc57c9d8a162770
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Lavamanos
-    second: {fileID: 2100000, guid: f957c334197504642b27e23f30f0294a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Metal
-    second: {fileID: 2100000, guid: be2456deec3d84f4099914a4c0cb398b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Vidrio
-    second: {fileID: 2100000, guid: 9998753d05f28ca4787d1c350e549101, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
