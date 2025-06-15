@@ -50,6 +50,10 @@ public class AnimationPicker : MonoBehaviour
     }
     public void DwarfIdleTrigger()
     {
-        animator.SetTrigger("dwarfIdleTrigger");
+        animator.SetTrigger("dwarfIdle");
+    }
+    public void CrouchIdleTrigger()
+    {
+        animator.SetTrigger("crouchIdle");
     }
 }
