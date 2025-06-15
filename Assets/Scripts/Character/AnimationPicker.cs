@@ -56,4 +56,12 @@ public class AnimationPicker : MonoBehaviour
     {
         animator.SetTrigger("crouchIdle");
     }
+    public void LookingDownTrigger()
+    {
+        animator.SetTrigger("lookingDown");
+    }
+    public void DefeatTrigger()
+    {
+        animator.SetTrigger("defeat");
+    }
 }
