@@ -15,7 +15,7 @@ MonoBehaviour:
   active: 1
   intensity:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 0.327
 --- !u!114 &-5478427693560599843
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -31,7 +31,7 @@ MonoBehaviour:
   active: 1
   intensity:
     m_OverrideState: 1
-    m_Value: 0.676
+    m_Value: 0.238
   xMultiplier:
     m_OverrideState: 1
     m_Value: 1
@@ -43,7 +43,7 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   scale:
     m_OverrideState: 1
-    m_Value: 2.16
+    m_Value: 1
 --- !u!114 &-2743548306214014128
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -127,10 +127,10 @@ MonoBehaviour:
     m_Value: 0
   scatter:
     m_OverrideState: 1
-    m_Value: 0.7
+    m_Value: 0.656
   clamp:
     m_OverrideState: 1
-    m_Value: 65472
+    m_Value: 65474.79
   tint:
     m_OverrideState: 1
     m_Value: {r: 1, g: 1, b: 1, a: 1}
@@ -162,7 +162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66f335fb1ffd8684294ad653bf1c7564, type: 3}
   m_Name: ColorAdjustments
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   postExposure:
     m_OverrideState: 1
     m_Value: 0
@@ -177,7 +177,7 @@ MonoBehaviour:
     m_Value: 0
   saturation:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: -59.8
 --- !u!114 &6189783775990829432
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -199,10 +199,10 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 0.271
   smoothness:
     m_OverrideState: 1
-    m_Value: 0.2
+    m_Value: 0.227
   rounded:
     m_OverrideState: 1
     m_Value: 0

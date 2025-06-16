@@ -64,4 +64,8 @@ public class AnimationPicker : MonoBehaviour
     {
         animator.SetTrigger("defeat");
     }
+    public void DefeatedTrigger()
+    {
+        animator.SetTrigger("defeated");
+    }
 }
